@@ -1,2 +1,20 @@
-# Robot-Runner
-Robot Runner is a mini coding playground where you write simple commands to help a robot escape maze puzzles. Featuring a tiny interpreter with lexing, parsing, control flow, and stateful execution, it teaches core compiler concepts through fun, interactive problem-solving.
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/temp/2
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
